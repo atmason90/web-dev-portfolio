@@ -25,6 +25,7 @@ This application was built with HTML, tailwindcss, and DaisyUI.
 ## Technologies Used
 
 ![HTML Badge](https://img.shields.io/badge/Language-HTML-red)
+![CSS Badge](https://img.shields.io/badge/Language-CSS-brightgreen)
 ![tailwindcss Badge](https://img.shields.io/badge/Framework-tailwindcss-9cf)
 ![DaisyUI Badge](https://img.shields.io/badge/UI-DaisyUI-yellow)
 
