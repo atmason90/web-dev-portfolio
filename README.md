@@ -20,6 +20,8 @@ This application was built with HTML, tailwindcss, and DaisyUI.
 
 ## Application View
 
+![Screen Shot 2022-05-16 at 9 58 55 PM](https://user-images.githubusercontent.com/99947655/168733097-7cda5034-928c-4ec7-bd44-18278f229ae0.png)
+
 ## Technologies Used
 
 ![HTML Badge](https://img.shields.io/badge/Language-HTML-red)
